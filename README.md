@@ -1,4 +1,4 @@
-# AdaSub
+# Adaptive Subspace (AdaSub) method
 
 Source files for the Adaptive Subspace (AdaSub) method introduced in the paper   
 
