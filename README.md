@@ -20,9 +20,8 @@ and extract the files Xgenes.txt, gene_id.txt & Y3.txt from the zip file 77-5.So
 
 Please note that the computation time for a full low- or high-dimensional simulation study are quite long (considering 500 simulated datasets for each sample size). 
 In order to obtain faster results, you also have the option to choose a lower number of simulated data examples per sample size
-and a lower number of considered different sample sizes. Further note that the computation time for the real data examples are quite long,
-since the number of iterations of AdaSub is chosen to be very large (see Section 6). 
-In order to obtain faster results, you also have the option to choose a smaller value for the number of iterations.
+and a lower number of considered different sample sizes. Further note that the computation times for the PCR data application are quite long,
+since the number of iterations of AdaSub is chosen to be very large (see Section 6). In order to obtain faster results, you also have the option to choose a smaller value for the number of iterations.
 
 The file "AdaSub_main_functions.R" includes functions for running the AdaSub algorithm 
 and simulating data from a linear regression model with different correlation structures. 
