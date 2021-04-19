@@ -14,7 +14,7 @@ and run the command:
 
 `source("Master_file.R")`
 
-You have the options to carry out the simulation study in the low-dimensional setting (Section 5.1) as well as in the high-dimensional setting (Section 5.2), the sensitivy analyses (Section 5.3), the illustrative example of AdaSub (Section A2), the PCR data example (Section 6). For line and colour coding of the graphs, please also refer to the paper. 
+You have the options to carry out the simulation study in the low-dimensional setting (Section 5.1) as well as in the high-dimensional setting (Section 5.2), the sensitivity analyses (Section 5.3), the illustrative example of AdaSub (Section A2) and the PCR data example (Section 6). 
 
 In order to run the real data example, please download the PCR data from JRSSB Datasets Vol. 77(5), Song and Liang (2015) from https://wol-prod-cdn.literatumonline.com/pb-assets/hub-assets/rss/Datasets/Vol_77_2015-1521879345620.zip and extract the files `Xgenes.txt`, `gene_id.txt` & `Y3.txt` from the zip file `77-5.Song.zip` to the subfolder `Files`.
 
