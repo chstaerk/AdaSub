@@ -1,6 +1,6 @@
 # AdaSub
 
-Source files for the paper  
+Source files for the Adaptive Subspace (AdaSub) method introduced in the paper   
 
 Staerk, C., Kateri, M., & Ntzoufras, I. (2021). High-dimensional variable selection via low-dimensional adaptive learning. Electronic Journal of Statistics, 15(1), 830-879.  https://doi.org/10.1214/21-EJS1797
 
