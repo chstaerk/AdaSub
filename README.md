@@ -26,4 +26,4 @@ In particular, the function
 `AdaSub(...)`
 
 can be used in order to run the AdaSub algorithm. 
-For instructions, please see the beginning of the file "AdaSub_main_functions.R" (with description of input and output format).
+For instructions, please see the beginning of the file "AdaSub_main_functions.R" (with description of input and output format); for an illustrative application of AdaSub, see the file "Illustrative_Example.R".  
