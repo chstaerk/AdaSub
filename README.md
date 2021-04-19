@@ -7,7 +7,7 @@ Staerk, C., Kateri, M., & Ntzoufras, I. (2021). High-dimensional variable select
 Please make sure that a version of R >= 3.6.0 is installed.
 
 In order to replicate the results of the paper, please start R, 
-set the working directory (`setwd(..)`) to the unzipped folder
+set the working directory `setwd(...)` to the unzipped folder
 and run the command: 
 
 `source("Master_file.R")`
